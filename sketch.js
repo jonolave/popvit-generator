@@ -118,7 +118,7 @@ function setup() {
 
     generateNewTitle();
 
-    var inp = createInput('Ditt navn metode 1');
+    var inp = createInput('Ditt navn');
     inp.input(myInputEvent);
     inp.position(10, 10);
 
